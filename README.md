@@ -13,6 +13,8 @@
 
 今回はAmazon S3 Tablesについて検証します。
 
+## 前提知識: Apache Icebergについて
+
 ## Amazon S3 Tablesとは
 
 ## セットアップ
