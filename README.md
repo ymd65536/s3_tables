@@ -25,6 +25,11 @@
 
 ## 参考
 
+- [How Amazon S3 Tables use compaction to improve query performance by up to 3 times - AWS Storage Blog](https://aws.amazon.com/jp/blogs/storage/how-amazon-s3-tables-use-compaction-to-improve-query-performance-by-up-to-3-times/)
+- [表形式データの大規模ストレージ - Amazon S3 Tables - AWS](https://aws.amazon.com/jp/s3/features/tables/)
+- [チュートリアル: S3 テーブルの使用開始 - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-tables-getting-started.html)
+- [S3Tables - Boto3 1.40.75 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3tables.html)
+
 ## ここから下はAWS CLIのインストールとSSOログイン手順ですので、必要に応じてご参照ください。
 
 ## AWS CLI インストールと SSO ログイン手順 (Linux環境)
